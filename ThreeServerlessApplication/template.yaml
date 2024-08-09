@@ -19,7 +19,7 @@ Resources:
       Architectures:
       - x86_64
       MemorySize: 128
-      Timeout: 100
+      Timeout: 50
       Description: A simple example includes a HTTP get method to get all items from
         a DynamoDB table.
       Policies:
